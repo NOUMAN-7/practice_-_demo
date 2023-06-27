@@ -1,38 +1,4 @@
 # practice_-_demo
 
-<div align="center">
-  <img src="m1.jpg" alt="Slide 1" id="slide-image">
-</div>
 
-<div align="center">
-  <button onclick="previousSlide()">Previous</button>
-  <button onclick="nextSlide()">Next</button>
-</div>
-
-<script>
-  var slideIndex = 0;
-  var slideImages = [
-    'm1.jpg',
-    'm2.jpg',
-    'm3slide3.jpg',
-    // Add more slide image paths as needed
-  ];
-  
-  function previousSlide() {
-    if (slideIndex === 0) {
-      slideIndex = slideImages.length - 1;
-    } else {
-      slideIndex--;
-    }
-    document.getElementById('slide-image').src = slideImages[slideIndex];
-  }
-  
-  function nextSlide() {
-    if (slideIndex === slideImages.length - 1) {
-      slideIndex = 0;
-    } else {
-      slideIndex++;
-    }
-    document.getElementById('slide-image').src = slideImages[slideIndex];
-  }
-</script>
+<iframe src="[https://www.slideshare.net/slideshow/embed_code/SLIDESHARE_ID](https://docs.google.com/presentation/d/e/2PACX-1vRDN4F4IcYvZY7zb3L-9NMkzlOXmRfgUhigt_ErBMvKzVlta5Buhc_IP4ZfG-marFk8uNg_j_VrhaYi/embed?start=false&loop=false&delayms=2000)https://docs.google.com/presentation/d/e/2PACX-1vRDN4F4IcYvZY7zb3L-9NMkzlOXmRfgUhigt_ErBMvKzVlta5Buhc_IP4ZfG-marFk8uNg_j_VrhaYi/embed?start=false&loop=false&delayms=2000" width="100%" height="400px" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
