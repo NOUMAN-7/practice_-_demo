@@ -12,9 +12,9 @@
 <script>
   var slideIndex = 0;
   var slideImages = [
-    'path/to/slide1.jpg',
-    'path/to/slide2.jpg',
-    'path/to/slide3.jpg',
+    'm1.jpg',
+    'm2.jpg',
+    'm3slide3.jpg',
     // Add more slide image paths as needed
   ];
   
