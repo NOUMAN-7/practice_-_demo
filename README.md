@@ -1,7 +1,7 @@
 # practice_-_demo
 
 <div align="center">
-  <img src="path/to/slide1.jpg" alt="Slide 1" id="slide-image">
+  <img src="m1.jpg" alt="Slide 1" id="slide-image">
 </div>
 
 <div align="center">
